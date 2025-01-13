@@ -1,5 +1,9 @@
 # Zap OTLP
 
+> [!IMPORTANT]
+> Please consider using [otelzap](https://github.com/open-telemetry/opentelemetry-go-contrib/tree/main/bridges/otelzap) bridge instead.
+
+
 inspired from https://github.com/MrAlias/otlpr
 
 This plugin helps you send logs from [zap](https://github.com/uber-go/zap) logger to a OTLP endpoint in your Go application.
